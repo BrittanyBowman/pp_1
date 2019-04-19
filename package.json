@@ -1,5 +1,7 @@
 {
   "name": "pp_1",
+  "main": "server/index.js",
+  "proxy": "http://localhost:6500",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
